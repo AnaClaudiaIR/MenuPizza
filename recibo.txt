@@ -1,0 +1,35 @@
+-----------------------------------------------
+              RECIBO DE COMPRA                 
+-----------------------------------------------
+
+---PIZZA---
+· Tamaño: GRANDE
+· Salsa: TOMATE
+· Toppings: [Sin toppings]
+Precio.... 12.99
+*********************************
+
+---PIZZA---
+· Tamaño: PEQUEÑA
+· Salsa: BARBACOA
+· Toppings: [salchichas, jamón, piña, carne picada]
+Precio.... 7.99
+*********************************
+
+---BEBIDA---
+· Nombre: AGUA
+Precio....1.0
+*********************************
+
+---BEBIDA---
+· Nombre: FANTA
+Precio....1.5
+*********************************
+
+---ADICIONALES---
+· Nombre: NUGGETS
+Precio....1.7
+*********************************
+
+
+-------------------------------------TOTAL: 25,18€
